@@ -154,14 +154,27 @@ export const education = [
 
 export const projects = [
   {
+    id: "mernRealEstate",
+    title: "Paradise Estate",
+    date: "April 2024 - May 2024",
+    description:
+      "Paradise Estate is a real estate platform for seamless property searches. Users can view listings and details without signing in, while registered users can contact landlords, manage profiles, and create or update listings.",
+    image:
+      "https://media.licdn.com/dms/image/D4D22AQFvpWIaSXVyPw/feedshare-shrink_2048_1536/0/1716115848106?e=1718841600&v=beta&t=aOzrN-yzZUXTdrb-qjzOYSv8LlHhiZLE2qp1yZ19Wt8",
+    tags: ["ReactJS", "NodeJS", "ExpressJS", "MongoDB", "Javascript", "Firebase"],
+    category: "web app",
+    github: "https://github.com/shubham-bhutada/mern-real-estate",
+    webapp: "https://mern-real-estate-y8nn.onrender.com",
+  },
+  {
     id: "vidVibe",
     title: "VidVibe",
     date: "Feb 2024 - Mar 2024",
     description:
       "A Digital Entertainment Hub for watching endless videos using react Js and YouTube Data API (v3).",
     image:
-      "https://media.licdn.com/dms/image/D4D22AQFL5ZHYKt2P1g/feedshare-shrink_2048_1536/0/1710160550648?e=1715817600&v=beta&t=-OS8pJfj6dPLyUTzUz71ZQUO1BNOadlpxKmWE5OUJQU",
-    tags: ["React Js", "React Router DOM", "Tailwind CSS", "Youtube Data API", "Firebase"],
+      "https://media.licdn.com/dms/image/D4D22AQFL5ZHYKt2P1g/feedshare-shrink_2048_1536/0/1710160550648?e=1718841600&v=beta&t=_cCyKpeLDUW7zc_yVKGpTSEb_cyZc9yzJM-mHoTNRq8",
+    tags: ["React Js", "React Router DOM", "Firebase", "Tailwind CSS", "Youtube Data API"],
     category: "web app",
     github: "https://github.com/shubham-bhutada/react-vidvibe-app",
     webapp: "https://react-vidvibe-app.vercel.app/",
@@ -186,19 +199,7 @@ export const projects = [
     github: "https://github.com/shubham-bhutada/crypto-tracker-app",
     webapp: "https://crypto-tracker-app-weld.vercel.app/",
   },
-  {
-    id: "lookpost",
-    title: "LookPO's",
-    date: "Dec 2023 - Dec 2023",
-    description:
-      "Looking for post offices using your IP address by ipapi API",
-    image:
-      "https://drive.google.com/file/d/1WGW4FFvThuIurkPUMj5Osm6tJofzBaWc/view?usp=drive_link",
-    tags: ["HTML", "CSS", "Javascript", "Bootstrap"],
-    category: "web app",
-    github: "https://github.com/shubham-bhutada/Post-Office-App-f3-module-test",
-    webapp: "https://shubham-bhutada.github.io/Post-Office-App-f3-module-test/",
-  },
+  
   // {
   //   id: 0,
   //   title: "Weather App",
