@@ -5,7 +5,7 @@ export const Bio = {
     "I am a passionate developer with a creative flair for crafting immersive digital experiences ✨",
   github: "https://github.com/shubham-bhutada",
   resume:
-    "https://drive.google.com/file/d/1Lows9IRo9kIIYWyCOfWqMx88rBszG9SA/view?usp=drive_link",
+    "https://drive.google.com/file/d/1IoYhTBFIn0z5-23js598ni0tRsJV9kkT/view?usp=sharing",
   linkedin: "www.linkedin.com/in/shubham-bhutada-a02394218",
   twitter: "https://twitter.com/Shubham_7810",
   insta: "https://www.instagram.com/dm_ssb/",
