@@ -125,7 +125,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4E0BAQEV622G49mpcw/company-logo_200_200/0/1630617256685?e=1721260800&v=beta&t=IijHNHTdLRoK-0cDSx0cPHcEb5IFsdpNkBFMgzclhcE",
+    img: "https://dypisicse.in/images/adypg-logo.jpg",
     school: "DY Patil School of Engineering",
     date: "July 2017 - July 2021",
     grade: "7.68 CGPA",
@@ -134,7 +134,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C560BAQFQIM065qPIIg/company-logo_100_100/0/1631355712126?e=1721260800&v=beta&t=zOPnoDtZDlsbOITyVOB697JBVtL7qosDtkVCUMhNO7c",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJulzGRuGp7_wHhCoc7TJkf6asbJYpzohd0Q&s",
     school: "Ashoka Junior College",
     date: "Apr 2015 - Apr 2017",
     grade: "70%",
@@ -143,7 +143,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C560BAQFQIM065qPIIg/company-logo_100_100/0/1631355712126?e=1721260800&v=beta&t=zOPnoDtZDlsbOITyVOB697JBVtL7qosDtkVCUMhNO7c",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJulzGRuGp7_wHhCoc7TJkf6asbJYpzohd0Q&s",
     school: "Ashoka Universal School",
     date: "Apr 2006 - Apr 2015",
     grade: "80%",
