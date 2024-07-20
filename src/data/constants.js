@@ -157,10 +157,11 @@ export const projects = [
     id: "mernRealEstate",
     title: "Paradise Estate",
     date: "April 2024 - May 2024",
+    alt: "Paradise Real Estate poster",
     description:
       "Paradise Estate is a real estate platform for seamless property searches. Users can view listings and details without signing in, while registered users can contact landlords, manage profiles, and create or update listings.",
     image:
-      "https://media.licdn.com/dms/image/D4D22AQFvpWIaSXVyPw/feedshare-shrink_2048_1536/0/1716115848106?e=1718841600&v=beta&t=aOzrN-yzZUXTdrb-qjzOYSv8LlHhiZLE2qp1yZ19Wt8",
+      "https://media.licdn.com/dms/image/D4D22AQFvpWIaSXVyPw/feedshare-shrink_2048_1536/0/1716115848106?e=1724284800&v=beta&t=8tRVpN4bqWE_6A-OoJWQvHuJixPDJ801MMohfkirPhQ",
     tags: ["ReactJS", "NodeJS", "ExpressJS", "MongoDB", "Javascript", "Firebase"],
     category: "web app",
     github: "https://github.com/shubham-bhutada/mern-real-estate",
@@ -170,10 +171,11 @@ export const projects = [
     id: "vidVibe",
     title: "VidVibe",
     date: "Feb 2024 - Mar 2024",
+    alt: "VidVibe poster",
     description:
       "A Digital Entertainment Hub for watching endless videos using react Js and YouTube Data API (v3).",
     image:
-      "https://media.licdn.com/dms/image/D4D22AQFL5ZHYKt2P1g/feedshare-shrink_2048_1536/0/1710160550648?e=1718841600&v=beta&t=_cCyKpeLDUW7zc_yVKGpTSEb_cyZc9yzJM-mHoTNRq8",
+      "https://media.licdn.com/dms/image/D4D22AQFL5ZHYKt2P1g/feedshare-shrink_2048_1536/0/1710160550648?e=1724284800&v=beta&t=5Zt1uG8ujME5Giw9Heonx-UmyKiRyHIlm5JixYKl2G4",
     tags: ["React Js", "React Router DOM", "Firebase", "Tailwind CSS", "Youtube Data API"],
     category: "web app",
     github: "https://github.com/shubham-bhutada/react-vidvibe-app",
@@ -184,6 +186,7 @@ export const projects = [
     id: "crypto-tracker",
     title: "Crypto Tracker",
     date: "Jan 2024 - Feb 2024",
+    alt: "Crypto Tracker poster",
     description:
       "A real-time Cryptocurrency tracker app built using React Js and CoinGecko API 🚀.",
     image:
